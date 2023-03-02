@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**JakeDer29/JakeDer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yakov29/Yakov29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
